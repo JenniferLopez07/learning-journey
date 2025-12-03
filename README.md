@@ -1,15 +1,24 @@
-# 📚 Learning Journey
+# 📚 Learning Journey (Notes Only)
 
-This repo documents my progress as I relearn coding and expand my cybersecurity skills.  
-It includes notes, exercises, and reflections from Codecademy, online labs, and personal study.
+This repo documents my study notes from Codecademy and other cybersecurity learning resources.
 
-## Topics Covered
-- Python basics
-- JavaScript fundamentals
-- Cybersecurity concepts
+## Structure
+- Cybersecurity Concepts → Notes from Fundamentals of Cybersecurity & Security+ Prep
+- Python Notes → Notes from Learn Python 3 & applied scripting
+- JavaScript → Notes from Learn JavaScript & web security
+- Resources → Course list, references, progress tracker
 
+## Progress Tracker
+| Phase | Course | Status | Notes |
+|-------|--------|--------|-------|
+| 1     | Learn Python 3 | ✅ Complete | See [Python Notes](./python-notes) |
+| 2     | Fundamentals of Cybersecurity | 🔄 In Progress | See [Cybersecurity Concepts](./cybersecurity-concepts) |
+| 3     | CompTIA Security+ Prep | ⏳ Planned | Notes coming soon |
 
-## Goals
-- Build consistency in coding practice
-- Document progress for accountability
-- Share resources with others on the same path
+## Applied Projects
+- [Password Strength Checker]()
+- [Snowball Debt Calculator]()
+
+## Hands-On Labs
+- [TryHackMe Write-Ups]()
+- [HackTheBox Write-Ups]()
