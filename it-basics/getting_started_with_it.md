@@ -19,5 +19,5 @@ It explains how Introduction to IT will cover topics such as how computers work,
 
 ## Resources
 - [Codecademy: Introduction to IT](https://www.codecademy.com/learn/introduction-to-it)
-- IT career overview: https://www.comptia.org/certifications/it-fundamentals
+
 
