@@ -9,16 +9,19 @@ This repo documents my study notes from Codecademy and other cybersecurity learn
 - Resources → Course list, references, progress tracker
 
 ## Progress Tracker
-| Phase | Course | Status | Notes |
-|-------|--------|--------|-------|
-| 1     | Learn Python 3 | ✅ Complete | See [Python Notes](./python-notes) |
-| 2     | Fundamentals of Cybersecurity | 🔄 In Progress | See [Cybersecurity Concepts](./cybersecurity-concepts) |
-| 3     | CompTIA Security+ Prep | ⏳ Planned | Notes coming soon |
+| Phase | Course | Status |
+|-------|--------|--------|
+| 1     | Learn Python 3 | ⏳ Planned |
+| 1     | Learn the Command Line | ⏳ Planned |
+| 1     | Networking Basics | ⏳ Planned |
+| 2     | Fundamentals of Cybersecurity | ⏳ Planned |
+| 2     | Learn SQL | ⏳ Planned |
+| 3     | CompTIA Security+ Prep | ⏳ Planned |
 
 ## Applied Projects
-- [Password Strength Checker]()
-- [Snowball Debt Calculator]()
+- [Password Strength Checker](https://github.com/JenniferLopez07/password-strength-checker)
+- [Snowball Debt Calculator](https://github.com/JenniferLopez07/snowball-debt-calculator)
 
 ## Hands-On Labs
-- [TryHackMe Write-Ups]()
-- [HackTheBox Write-Ups]()
+- [TryHackMe Write-Ups](https://github.com/JenniferLopez07/tryhackme-writeups)
+- [HackTheBox Write-Ups](https://github.com/JenniferLopez07/hackthebox-writeups)
