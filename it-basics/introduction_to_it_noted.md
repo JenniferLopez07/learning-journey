@@ -1,4 +1,4 @@
-# Introduction to IT – Codecademy
+# Introduction to IT – Codecademy 
 
 ## Overview
 This course covers the fundamentals of Information Technology, including hardware, software, networking, and system administration.  
