@@ -1,57 +1,84 @@
 # Networks and The Internet – Codecademy
 
 ## Overview
-This lesson covers the fundamentals of computer systems, including hardware, software, and how they interact.  
-Understanding these basics is essential for IT support and cybersecurity, since vulnerabilities often arise from misconfigured systems or outdated software.
+This lesson introduces the core concepts behind computer networks and how devices communicate across local and global systems.
+Understanding networking is essential for IT support and cybersecurity, as misconfigurations, insecure protocols, and poor network design often lead to vulnerabilities.
 
 ## Key Concepts
- **Hardware**
- - Modem, Wireless Router, Coaxial Cable, Ethernet Cable
+ **Hardware Components**
+ - Modem – Connects a home or business network to the ISP.
+ - Wireless Router – Distributes network access to devices.
+ - Coaxial Cable / Ethernet Cable – Physical media used to transmit data.
    
- **Software**
-  - Browsers (safari, internet explorer, firefox)
-  - Servers
-  - Client-Server Model
-  - HTTP Requests and Status Codes
-  - HTML files and CSS stylesheet
-  - IP Address and Mac Addresses
+ **Software & Communication**
+  - Browsers – Safari, Internet Explorer, Firefox, Chrome.
+  - Servers – Systems that store, process, and deliver data.
+  - Client–Server Model – Client requests → server responds.
+  - HTTP Requests & Status Codes – Communication between browser and server.
+  - HTML & CSS – Core technologies for rendering web pages.
+  - IP Addresses & MAC Addresses – Unique identifiers for devices.
 
-  **Network**
-  - LAN, CAN, WAN, VPN
-  - OSI: Network Model
-  - TCP/IP Model
-  - Network Protocols (DNS, HTTP, Email)
+  **Network Types**
+  - LAN – Local Area Network
+  - CAN – Campus Area Network
+  - WAN – Wide Area Network
+  - VPN – Virtual Private Network (secure tunneling)
+
+  **Network Models**
+  - OSI Model (7 Layers)
+    1. Physical
+    2. Data Link
+    3. Network
+    4. Transport
+    5. Session
+    6. Presentation
+    7. Application
+  - TCP/IP Model (4 Layers)
+    1. Application
+    2. Transport
+    3. Internet
+    4. Network Access (Link Layer)
+       
+   **Network Protocols**
+   - DNS – Converts domain names to IP addresses.
+   - HTTP/HTTPS – Web communication protocols.
+   - Email Protocols – POP3, IMAP, SMTP.
+   - SSH – Secure remote access.
+   - SMB – File and printer sharing.
+   - FTP – File transfer protocol.
 
 
 ## Examples
-- Browser and Server functionality: browser ---> client request ---> web server // web server ---> server response ---> browser
-- Status Code: 404 Error
-- OSI: Network Model -- Physical, Data Link, Network, Transport, Session, Presentation, Application
+- Client-Server Flow
+  Browser --> sends request --> Web Server
+  Web Server --> sends response --> Browser
+- Status Code Example: 404 Not Found - Resource does not exist.
+- OSI Model Example: Data travels from Physical --> Application layers as it moves across a network
    
 ## Takeaways
-- In a client-server model, the client refers to the user's device or program that is making a request for data. The client can be a browser or an application running
-- A server is the device or program in a network that waits for incoming requests and sends back data
-- Understanding the relationship and functionality between a browser and server.
-- Browser and server communicate with one another using HTTP (Hypertext Transfer Protocol)
-- Server responds to client via status codes as a part of their response
-- Setting up a Wireless Network
-- IP addresses identify a device on a network
-- Different types of networks and their functions
-- 7 layers of the OSI: Network Model
-  - Physical: Raw data bits are received as a stream of 0s and 1s. Covers how unstructured data, like bits, is transmitted
-  - Data Link: How data is sent from device to device when connected to the same local network
-  - Network: How data packets are routed between wider networks
-  - Transport: Data is actually transferred
-  - Session: When two computers have started an exchange of information
-  - Presentation: Methods to convert data into a format usable by an application
-  - Application: Includes websites, browsers, email, mobile applications, and how they render internet data
-- TCP/IP Model
-  - Application: Includes the opening and closing of sessions, translating data, and the interaction with content at the application level
-  - Transport: TCP and UDP are the core protocols. Acknowledgement of the sender and receiver and transmitting data quickly
-  - Internet: Where the IP addressing and routing occur
-  - Network Access: Also known as the Link Layer, encompasses the sending or receiving of network data at the local network level
-- Converting domain names to IP[ addresses is part of the DNS (Domain Name System) protocol
-- 
+- Client–Server Communication
+  - A client is the device or application requesting data (e.g., browser).
+  - A server waits for incoming requests and responds with data.
+  - Communication happens using HTTP, and servers return status codes to indicate success or errors.
+    
+- Networking Fundamentals
+  - Wireless networks require proper configuration of routers, modems, and security settings.
+  - IP addresses uniquely identify devices on a network.
+  - Different network types (LAN, WAN, VPN) serve different purposes.
+
+- OSI & TCP/IP Models
+  - OSI provides a conceptual framework for understanding how data moves.
+  - TCP/IP is the practical model used on the internet.
+  - Each layer has a specific role in transmitting, routing, and presenting data.
+
+- Protocols & Services
+  - DNS translates human-readable domains into IP addresses.
+  - Ports act like “traffic lanes” for different services (e.g., port 80 for HTTP).
+  - SSH, SMB, FTP enable secure access, file sharing, and data transfer.
+  - POP3 downloads email from a remote server to a single device.
+    
+- Troubleshooting
+  - Understanding how networks function helps diagnose connectivity issues, misconfigurations, and protocol failures.
   
 ## Resources
 - [Codecademy: Networks and The Internet](https://www.codecademy.com/courses/introduction-to-it/lessons/overview-of-the-internet-conceptual/exercises/the-ever-expanding-network)
