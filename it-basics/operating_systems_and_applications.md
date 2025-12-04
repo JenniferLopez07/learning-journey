@@ -114,7 +114,7 @@ This lesson provides a high‑level overview of the responsibilities of an opera
 - System tools allow users to view running applications and close them when needed.
   
 ## Resources
-- [Codecademy: Networks and The Internet](https://www.codecademy.com/courses/introduction-to-it/articles/basics-of-operating-systems-article)
+- [Codecademy: Operating Systems and Applications](https://www.codecademy.com/courses/introduction-to-it/articles/basics-of-operating-systems-article)
 - [Codeacademy: Fundamentals of Operating Systems](https://www.codecademy.com/courses/introduction-to-it/informationals/going-further-with-operating-systems)
 
 
